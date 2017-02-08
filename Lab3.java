@@ -1,4 +1,8 @@
-import javax.swing.*;
+/* 
+   in this project we will be converting fahrenheit to centigrade
+   also, we will output the first 40 temperature measurements counting 
+   by 5 using a FOR LOOP and WHILE LOOP
+*/
 
 public class Lab3 {
 	public static void main(String[] args){
