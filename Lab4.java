@@ -13,7 +13,8 @@ public class Lab4 {
 		
 		while(true){
 			inputWord = JOptionPane.showInputDialog(null, "Enter a word in all lower case:");
-			if (inputWord.equals("STOP")){
+			if (inputWord.equalsIgnoreCase("STOP")){
+				JOptionPane.showMessageDialog(null,"Shutdown");
 				System.exit(0);
 			}
 		
