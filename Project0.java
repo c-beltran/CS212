@@ -1,7 +1,5 @@
 
 /*
-Carlos Alberto 					Lab Sec.: B
-
 This program is intended to do the following:
 1. Ask the user to type in a sentence, using a JOptionPane.showInputDialog().
 2. The program will examine each letter in the string and count how many time the 
