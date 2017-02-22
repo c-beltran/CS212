@@ -1,3 +1,8 @@
+/*in this project we incorporate a .txt file in our java project
+this is then used by the program to read throught the .text file
+to check if user input is in the list that the .txt file contains.
+*/
+
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
