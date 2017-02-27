@@ -3,7 +3,9 @@ In this program we want it to read from a txt file that
 contains a list of number. Once the text file is read 
 the program needs to compute the sum and the average.
 once thats done program must output the answers in a 
-message box. */
+message box. 
+-use TextFileInput.java for lab 6 when compiling file
+*/
 
 
 import java.io.BufferedReader;
