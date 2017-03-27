@@ -1,3 +1,4 @@
 # CS212
-Comp Sci Java 212
-QC
+Queens College Comp Sci
+Java 212
+Dr. Lord's Class
