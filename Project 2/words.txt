@@ -1,0 +1,8 @@
+cat
+rat
+sat
+the,cat,is,red
+my,dog,is,not,blue
+the
+quick,brown,fox
+jumps,over,the,lazy,dogs
